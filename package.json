@@ -33,7 +33,7 @@
     "lodash": "^4.17.21",
     "multiformats": "9.9.0",
     "pako": "^2.1.0",
-    "semver": "^7.6.3",
+    "semver": "^7.7.2",
     "viem": "^2.19.2"
   },
   "devDependencies": {
