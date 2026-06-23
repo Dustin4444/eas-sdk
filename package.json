@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@ethereum-attestation-service/eas-contracts": "1.7.1",
-    "@openzeppelin/merkle-tree": "^1.0.7",
+    "@openzeppelin/merkle-tree": "^1.0.8",
     "ethers": "^6.13.2",
     "js-base64": "^3.7.7",
     "lodash": "^4.17.21",
